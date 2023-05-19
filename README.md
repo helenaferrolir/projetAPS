@@ -2,12 +2,14 @@
      Aplicativo de Controle de Gastos
 O que vamos criar é uma aplicação de controle de gastos com login com email e senha, cadastro de usuário e um CRUD (Criar, Ler, Atualizar e Remover) de receitas e despesas.
 
-  Tecnologias utilizadas para o BACk
+  Tecnologias utilizadas para o BACK   
+  
 BACK-END: NodeJs com Express
 AUTENTICAÇÃO: JWT
 BANCO DE DADOS: Firebase firestore
 
-  Tecnologias utilizadas para FRONT
+  Tecnologias utilizadas para FRONT   
+  
 FRONT-END: HTML, Javascript e CSS puros
 AUTENTICAÇÃO: Autenticação Firebase
 BANCO DE DADOS: Firebase firestore
