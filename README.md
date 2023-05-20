@@ -15,6 +15,8 @@ AUTENTICAÇÃO: Autenticação Firebase
 BANCO DE DADOS: Firebase firestore
 
 Para rodar abrir o arquivo index.html .  instalar npm e executar node index.js. instalar firebase
+
+
 PARTICIPANTES CAIO VINICIUS, MARIA VITÓRIA, MARIA HELENA
 
 
