@@ -14,7 +14,7 @@ FRONT-END: HTML, Javascript e CSS puros
 AUTENTICAÇÃO: Autenticação Firebase
 BANCO DE DADOS: Firebase firestore
 
-Obs. A ferramenta foi desenvolvida a partir de uma aplicação já existente, seguimos os passos e fomos orientados através do youtube chamado Paulo Alves Dev, utilizamos desse recurso como ajuda, devido a falta de experiência com projetos desse porte. Pois esse é o primeiro projeto da equipe com back-end e front-end integrados. 
+Para rodar abrir o arquivo index.html .  instalar npm e executar node index.js. instalar firebase
 
 
 
